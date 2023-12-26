@@ -3,7 +3,7 @@
 <p align="center">:octocat: A simple API that returns number of Github trending repositories and developers.</p>
 
 <div align="center">
-  <img src="images/hero.svg" alt="hero image" width="400"/>
+  <img src="images/hero.svg" alt="Hero Image" width="400"/>
   <br>
   <p>
     <em>Credits: Illustration by <a href="https://undraw.co/">unDraw</a></em>
